@@ -5,14 +5,18 @@
 <div id="badges" align="center">
 <img alt="Website" src="https://img.shields.io/website?down_message=offline&up_color=gren&up_message=online&url=https%3A%2F%2Filluminaticraft.de">
 </div>
-<div align="center">
-    <h1>Oi, my name is gamerik</h1>
-</div>
+
+# Oi, my name is gamerik
+
+## i try to make stuff
+
+a couple examples would be:
+- my [website](https://illuminaticraft.de)
+- [discord bots](https://github.com/ItsGamerik/get-img) i write in rust
 
 ---
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsGamerik&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsGamerik&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 > Alt F4 und der Tag gehört dir
 
