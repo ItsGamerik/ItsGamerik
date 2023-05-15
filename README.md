@@ -8,7 +8,7 @@
 
 # Oi, my name is gamerik
 
-## i try to make stuff
+### i try to make stuff
 
 a couple examples would be:
 - my [website](https://illuminaticraft.de)
