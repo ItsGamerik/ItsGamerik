@@ -1,16 +1,6 @@
-<style>
-    .headerimage {
-        border-radius: 100%;
-        width: 100px;
-        height: 100px;
-    }
-    p {
-        margin: auto;
-        text-align: center;
-    }
-</style>
+
 <div id="header" align="center">
-    <img src="profil.png" class="headerimage" alt="i got this pfp from an AI, idk why i started to use it everywhere.">
+    <img src="profil.png" class="headerimage" alt="i got this pfp from an AI, idk why i started to use it everywhere." border-radius="10px">
 </div>
 
 <p>
