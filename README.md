@@ -1,10 +1,5 @@
-
-<div id="header" align="center">
-    <img src="profil.png" class="headerimage" style="border-radius: 100%; height: 100px; width: 100px">
-</div>
-<div id="badges" align="center">
-<img alt="Website" src="https://img.shields.io/website?down_message=offline&up_color=gren&up_message=online&url=https%3A%2F%2Filluminaticraft.de">
-</div>
+![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Filluminaticraft.de)
+[![get-img](https://github.com/ItsGamerik/get-img/actions/workflows/build.yml/badge.svg)](https://github.com/ItsGamerik/get-img/actions/workflows/build.yml)
 
 # Oi, my name is gamerik
 
