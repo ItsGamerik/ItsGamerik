@@ -1,11 +1,10 @@
 
 <div id="header" align="center">
-    <img src="profil.png" class="headerimage" alt="i got this pfp from an AI, idk why i started to use it everywhere.">
+    <img src="profil.png" class="headerimage" style="border-radius: 100%; height: 100px; width: 100px">
 </div>
 
-<div text-align="center">
-Oi, my name is gamerik
-</div>
+# Oi, my name is gamerik
+
 > Alt F4 und der Tag gehört dir
 
 — ???
