@@ -10,7 +10,7 @@ a couple examples would be:
 - [discord bots](https://github.com/ItsGamerik/get-img) i write in rust
 
 ### you can also contact me here
-![](https://img.shields.io/badge/Discord-Its__Gamerik%232650-blue)
+![](https://img.shields.io/badge/Discord-gamerik-blue)
 
 ---
 
