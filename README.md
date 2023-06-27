@@ -1,4 +1,4 @@
-![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Filluminaticraft.de)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Filluminaticraft.de)](https://illuminaticraft.de)
 [![get-img](https://github.com/ItsGamerik/get-img/actions/workflows/build.yml/badge.svg)](https://github.com/ItsGamerik/get-img/actions/workflows/build.yml)
 
 # Oi, my name is gamerik
