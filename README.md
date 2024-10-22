@@ -1,4 +1,4 @@
-# Oi, my name is Erik
+# Hi, my name is Erik
 
 ### i try to make stuff
 
